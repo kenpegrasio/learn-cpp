@@ -1,4 +1,2 @@
 title: Learn C++
-theme: jekyll-theme-hacker
-markdown: kramdown
-highlighter: rouge
+theme: minima
