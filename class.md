@@ -1,3 +1,7 @@
+--- 
+title: Class
+---
+
 # Class
 
 In C++, __member functions__ are the functions that are declared as a member of a class. There are many different distinctions of member functions: `static` vs `non-static`, `const` vs `non-const`, etc. 

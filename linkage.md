@@ -1,3 +1,7 @@
+---
+title: Linkage
+---
+
 # Linkage
 
 Recall that in C/C++ program, to generate a machine code given a program, there are 4 steps: `preprocessing`, `compilation`, `assembler`, and `linker`. 
