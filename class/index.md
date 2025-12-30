@@ -12,3 +12,4 @@ This section of the website will contain hopefully almost all things you need to
 2. [Abstract vs Concrete Class](class-abstract-concrete.md)
 3. [Inheritance](class-inheritance.md)
 4. [Virtual Functions](class-virtual-functions.md)
+5. [Destructors and Constructors](class-destructors-constructors.md)
