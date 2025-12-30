@@ -93,7 +93,7 @@ Other consequence of this independency is that static member functions **can onl
 
 Member functions are inlined by default. If request is granted, inline function simply means that the compiler will expand the code during compilation. This is aimed to reduce **function-call overhead**.
 
-![Inlining Example](/assets/images/inline_functions.png)
+![Inlining Example](assets/images/inline_functions.png)
 
 It is important to note that inlining a function is only a **request** to the compiler; the **compiler may ignore** inlining the function if the function is too complex, for example, containing loops or recursive.
 
