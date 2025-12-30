@@ -2,13 +2,15 @@
 title: Learn C++
 ---
 
-Welcome! This website will document my learning journey on C++. I hope this can also be useful for you who are passionate to learn more about C++. 
+Welcome! This website documents my learning journey on C++. I hope it can also be useful for anyone passionate about learning C++.
 
-## Topics
-- [Class](class.md)
-- [Linkage](linkage.md)
+## Sections
 
-## Reference
+- [Linkage](linkage/index.md)
+- [Class](class/index.md)
+
+## References
+
 - A Tour of C++
 - Effective Modern C++
-- Geeksforgeeks
+- GeeksforGeeks
